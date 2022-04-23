@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Send
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 72e3a64368a707a439a9528b17002334, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8ff23410c65cb47148a05211ac531d45, type: 3}
+  - {fileID: 21300000, guid: 6e4910d1f1566e9499f8649380abe6dc, type: 3}
+  - {fileID: 21300000, guid: fe833c02150666e4e9466c58bda946b9, type: 3}
+  - {fileID: 21300000, guid: 0011c3355530d46ecbb091a7d8f2ca79, type: 3}
+  - {fileID: 21300000, guid: 2db45e35c136aa341a01cc094425a627, type: 3}
+  - {fileID: 21300000, guid: 58206a7897c85d94c848947ed57cce5a, type: 3}
+  - {fileID: 21300000, guid: 845764a8191274f8b990cd4618a77409, type: 3}
+  - {fileID: 21300000, guid: a6dd6e0ad05fb468786714b6117ee04d, type: 3}
+  - {fileID: 21300000, guid: 7eab6a3b10da4c741817b811dce05b8d, type: 3}
+  - {fileID: 21300000, guid: 8cef505b6105f3141b671d086f35f5a1, type: 3}
+  - {fileID: 21300000, guid: 23d25a8b5adca4523bc92f473354cd7e, type: 3}
+  - {fileID: 21300000, guid: b8898dcc3e537c24a883b6d07eda4419, type: 3}
+  - {fileID: 21300000, guid: c777435e2b5af4945a921b18d305c61d, type: 3}
+  - {fileID: 21300000, guid: 0c0ad8fe649d2434ab4eaae71e7f9a77, type: 3}
+  - {fileID: 21300000, guid: b7dd001f928bc48b48a8ceff9582ecc8, type: 3}
+  - {fileID: 21300000, guid: d9ca453fc79a19e4a8e1e34f2a503a8f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_send_scene_06
+  - ui_send_scene_01
+  - ui_send_return
+  - ui_send_scene_07
+  - ui_send_TreasureHunt_02
+  - ui_send_scene
+  - ui_send_scene_08
+  - ui_send_scene_04
+  - ui_send_TreasureHunt_03
+  - ui_send_scene_03
+  - ui_send_scene_09
+  - ui_send_scene_02
+  - ui_send_name
+  - ui_send_scene_05
+  - ui_send_scene_10
+  - ui_send_TreasureHunt_01
+  m_RenderDataMap: {}
+  m_Tag: Send
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
